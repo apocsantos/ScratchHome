@@ -1,4 +1,13 @@
 # ScratchHome
+pt
+
+  Um plugin que permite modificar móveis de [SweetHome3D](http://sweethome3d.com/) através de [Scratch](https://scratch.mit.edu/).
+  Utiliza um servidor para transmitir toda a informação do Scratch ao plugin no SweetHome.
+
+  Como instalá-lo : exportar o projeto Java num ficheiro de frascos
+  coloque o ficheiro do frasco na pasta plugin do SweetHome3D.
+  Nada mais para fazer, SweetHome 3D fará o resto por si mesmo.
+
 en
 
   A plugin that allow you to modify furnitures of [SweetHome3D](http://sweethome3d.com/) through [Scratch](https://scratch.mit.edu/).
